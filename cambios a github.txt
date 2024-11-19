@@ -1,0 +1,12 @@
+Para subir los cambios a Github solamente hay que hacer lo siguiente:
+
+1. Si se actualizó, o se añadieron carpetas o archivos desde la terminal se hace lo siguiente:
+    . git config --global user.name "Tu nombre"
+    . git config --global user.mail "tu correo"
+
+    git status
+    git add .
+    git commit -m "Mensaje del commit"
+    git push origin master
+
+Ya estará lista y disponible dentro de github.

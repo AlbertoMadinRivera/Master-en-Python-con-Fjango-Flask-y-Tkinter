@@ -1,0 +1,1 @@
+Vamos a crear un correo y un usuario para usar dentro de my sql

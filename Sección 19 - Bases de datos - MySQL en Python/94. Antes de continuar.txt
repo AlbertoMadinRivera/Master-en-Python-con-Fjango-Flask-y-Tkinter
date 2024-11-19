@@ -1,0 +1,20 @@
+Antes de continuar
+A partir de ahora vamos a estar trabajando con MySQL, por tanto debemos aprender a instalarlo.
+
+En la siguiente clase vamos a instalar un entorno para MySQL, sigue los pasos para tenerlo instalado en tu equipo.
+
+Hablare de PHP, Apache, PHPMyAdmin, MySQL etc, porque instalaremos un servidor de aplicaciones web que llevará todas estas herramientas.
+
+Aviso para la siguiente clase: Solo es necesario que instales WAMP Server, para tener MySQL disponible, no es necesario que instales Netbeans, eso te lo puedes saltar.
+
+Wamp Server puedes conseguirlo aquí:
+
+https://sourceforge.net/projects/wampserver/
+
+Los paquetes de Microsoft para Windows puedes conseguirlos aquí:
+
+http://wampserver.aviatechno.net/?lang=en&prerequis=afficher
+
+Nos vemos en la siguiente clase.
+
+Muchas gracias :)
